@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# IMDb datasets
+data/*.tsv.gz
+
+# ML model files
+*.pkl
+
+# Python cache
+__pycache__/
