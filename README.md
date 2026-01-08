@@ -139,15 +139,6 @@ Aspiring Full Stack & Machine Learning Developer
 
 ---
 
-## ⚠️ Why datasets and models are not included?
-
-GitHub enforces a **100 MB per-file limit**.
-Large datasets and trained ML models are intentionally excluded and must be generated locally.
-
-This approach follows **industry best practices**.
-
----
-
 ## ⭐ Support
 
 If you find this project useful, feel free to **star ⭐ the repository**.
