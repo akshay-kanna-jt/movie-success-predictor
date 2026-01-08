@@ -1,4 +1,4 @@
-# 🎬 Movie Success Predictor
+# 🎬 Movie Success Predictor 
 
 A Machine Learning project that predicts the **success of a movie** based on IMDb metadata such as genres, ratings, cast, crew, and release details.
 
